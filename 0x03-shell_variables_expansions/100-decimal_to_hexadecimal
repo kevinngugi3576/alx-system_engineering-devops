@@ -1,1 +1,2 @@
-VimCrypt~03!œoOe™é8ÁjØ4÷lÖV<ƒB×©ÃJ´I¨´A v’$AB‡Ø:òÓ‚LD
+#!/bin/bash
+printf '%x\n' $DECIMAL
