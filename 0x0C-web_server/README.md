@@ -2,7 +2,7 @@ Web server
 In this project, I learned how web servers work and began using one. I was provided a personal server by ALX. I learned how to use scp and Fabric to transfer files to my server. Additionally, I completed a basic configuration of the server using Nginx.
 
 0. Transfer a file to your server
- Bash script that transfers a file from Holberton's client to a server.
+ Bash script that transferss a file from Holberton's client to a server.
 Accepts four arguments:
 The path of the file to be transferred.
 The IP of the server to transfer the file to.
